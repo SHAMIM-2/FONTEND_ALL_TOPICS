@@ -1,0 +1,25 @@
+h2{
+    color: green;
+}
+h1{
+    background-color:black;
+}
+.div{
+    width: 50%;
+    height: 400px;
+    background: rgb(109, 123, 126);
+    display: grid;
+    align-items: center;
+    
+}
+
+
+#pera{
+    border: 5px solid black;
+    background: #fff;
+    padding: 5px;
+}
+
+#pera:hover {
+    background: transparent;
+}
