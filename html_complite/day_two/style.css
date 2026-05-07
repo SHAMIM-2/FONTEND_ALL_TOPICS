@@ -23,3 +23,15 @@ h1{
 #pera:hover {
     background: transparent;
 }
+
+.s1{
+    background: green !important;
+    display: grid;
+    justify-items: center;
+    justify-content: center;
+    justify-self: center;
+    /* align-items: center; */
+}
+.div{
+    background-color: inherit;
+}
